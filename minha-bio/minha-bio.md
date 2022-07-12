@@ -1,0 +1,2 @@
+# Mini biografia
+_Me chamo Marcela Venturini F. Cornelio, tenho 23 anos, mãe de 3 pets, moro com meu namorado na zona sul de SP. Trabalho como agente no Itaú Unibanco a 5 anos, mas nunca gostei muito de trabalhar com vendas e por isso quero migrar de área. Faço bootcamp de T.I. na **Labenu**, com duração de 1 ano, ao término espero estar empregada na área e estudar ADS para me aperfeiçoar._
