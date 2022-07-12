@@ -1,1 +1,1 @@
-oi meu nome é eduardo, gosto de jogar tft mas o tft é muito estressante, tenho vontade de jogar meu computador pela janela, sou ouro 1 no joguinho e tenho um bonequinho de avatar bem divertido e legal.
+Oi meu nome é Eduardo, tenho 29 anos e sou morador da cidade de Mogi das Cruzes-SP. Aspiro ser programador e estou começando meu curso em 2022.
