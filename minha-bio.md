@@ -10,13 +10,8 @@ _Estou estudando pra ser um futuro Dev na Labenu_
 
 ~~Atualmente sou veterinário e em breve espero fazer transição de carreira~~
 
-<!-- estou adorando essa fase! -->
+<!-- estou adorando essa jornada de aprendizado e desafio! -->
+
+~~mas uns dias de folga fariam bem~~
 
 > Espero q tudo se encaminhe e eu possa achar boas oportunidades e um emprego dev
-
-
-- Sou sociavel
-- Amo animais
-- e amo animes
-- jogos mmorpg
-- e cultura geek de uma foma geral.
