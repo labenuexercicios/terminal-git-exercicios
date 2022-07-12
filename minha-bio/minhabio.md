@@ -1,0 +1,1 @@
+oi meu nome é eduardo, gosto de jogar tft mas o tft é muito estressante, tenho vontade de jogar meu computador pela janela, sou ouro 1 no joguinho e tenho um bonequinho de avatar bem divertido e legal.
