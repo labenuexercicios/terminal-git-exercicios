@@ -14,4 +14,4 @@ Nesta branch, crie uma pasta chamada minha-bio e, dentro dessa pasta, crie um ar
 ## Exercício 3
 Nesse arquivo, você deve escrever uma mini biografia sua.
 
-**Entrega**: na próxima aula, aprenderemos como subir esse arquivo no repositório remoto!git st
+**Entrega**: na próxima aula, aprenderemos como subir esse arquivo no repositório remoto! Git st
