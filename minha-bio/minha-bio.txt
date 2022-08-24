@@ -1,0 +1,3 @@
+Meu nome é Alexandre, tenho 42 anos, sou casado e não tenho filhos.
+Sou formado em Análise e Desenvolvimento de Sistemas 
+Meu Hobby é a área automotiva, especificamento a mecânica em geral.
