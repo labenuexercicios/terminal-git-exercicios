@@ -1,0 +1,3 @@
+Oi! Estou enviando essa mensagem de uma de suas primeiras aulas de Git/Github.
+Se você está vendo isso de um futuro relativamente distante, pare um pouco e deguste da nostalgia deste momento em que vc deu seus primeiros passos.
+Por favor, me diga que deu tudo certo =)
