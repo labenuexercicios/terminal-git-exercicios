@@ -7,7 +7,7 @@ Acesse a pasta do repositório clonado.
 ## Exercício 2
 Na raiz do seu repositório local, utilizando o terminal, use o comando git branch para verificar a branch atual. A branch atual deve ser a main.
 
-Crie uma branch chamada ```terminal-e-git``` e, depois, entre nessa branch.
+Crie uma branch chamada ```minha-bio``` e, depois, entre nessa branch.
 
 Nesta branch, crie uma pasta chamada minha-bio e, dentro dessa pasta, crie um arquivo chamado minha-bio.txt
 
