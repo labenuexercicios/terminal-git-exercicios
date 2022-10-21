@@ -1,4 +1,4 @@
-#Terminal e Introdução ao Git - Exercício
+# Terminal e Introdução ao Git - Exercício
 
 Vamos executar algumas coisas no repositório da Labenu: 
 
