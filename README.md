@@ -1,3 +1,5 @@
+Terminal e Introdução ao Git - Exercício
+
 Vamos executar algumas coisas no repositório da Labenu: 
 
 ## Exercício 1
