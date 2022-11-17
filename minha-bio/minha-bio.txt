@@ -1,0 +1,9 @@
+Minha mini biografia
+
+Nasci em 2000 mas minha história recente começa em 2017 quando entrei pra Marinha do Brasil.
+Fiquei 4 anos e uns quebrados na Marinha(2017-2021) e decidi mudar de vida e sair de um ambiente 
+onde meu potencial era drenado com atividades pouco produtivas. Hoje sou aluno da Labenu e espero 
+trabalhar com programação futuramente em um ambiente mais humanizado e que me permita crescer.
+
+minha-bio
+main
