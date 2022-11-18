@@ -1,0 +1,5 @@
+Olá, meu nome é Lucas e eu estou fazendo o curso de desenvolvedor FullStack da Labenu.
+Gosto de tecnologia, gatos, rock e de conhecer pessoas novas e suas experiências de vida.
+Está é minha primeira bio totalmente criada e editada através do terminal git e sem usar
+nenhuma interface. Que tal?
+
