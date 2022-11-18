@@ -1,0 +1,6 @@
+    Olá, meu nome é Italo e eu tenho 21 anos. Eu sempre vivi estudando, meu pai sempre admirou valor do estudo e sempre incentivou seus filhos.
+A 4 anos eu estudo para vestibular e nesse meio tempo eu descobri a programação e me apaixonei e entre estudar 5 anos em uma faculdade ou fazer 
+um Bootcamp e ter a possibilidade de logo ser empregado, eu escolhi fazer o Bootcamp. Nesse meio tempo de 5 anos eu estudei HTML e CSS, mas só 
+nos ultimos 3 meses eu comecei o JavaScript. Foi uma experiência incrivel estudar JS e a lógica de programação e está sendo incrivel aprender 
+na Labenu nessa fase da minha vida, eu tentarei aproveitar o processo o máximo que eu puder e aproveitar a fonte de conhecimento na area de 
+programação. Então esse foi o resumo sobre mim e sobre esses ultimos anos de estudos.
