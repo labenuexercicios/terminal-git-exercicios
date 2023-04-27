@@ -1,0 +1,8 @@
+Exercício 3: Nesse arquivo, você deve escrever uma mini biografia sua. Entrega: na próxima aula, aprenderemos como subir esse arquivo no repositório remoto!
+
+
+Meu nome é Benjamin Ruiz, sou um homem trans, tenho 34 anos e moro em Portugal há 4 anos.
+Eu nasci em São Paulo-SP mas quando tinha 2 anos fui morar em Uberaba-MG, depois de 2 anos voltei para SP.
+Cresci morando em Itaquera-ZL, trabalhei a maior parte da minha vida em livrarias e tentei 3 vezes fazer o curso de Arquitetura, mas por questões financeiras sempre tive que trancar.
+Em 2016 até 2017 morei em Floripa e depois voltei pra SP.
+Em 2019 resolvi mudar para Portugal, desde que cheguei trabalhei na parte de logística de fábrica pois não tenho estudo e por esse motivo decidi fazer o curso de labenu, para tentar mudar de área e ter qualidade de vida.
