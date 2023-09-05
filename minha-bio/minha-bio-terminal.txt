@@ -1,0 +1,9 @@
+Adicionando o texto ao arquivo
+
+Adicionando o texto ao arquivo parte 2 (teste pelo echo)
+
+Teste 1 2 3 (teste pelo nano)
+
+ragavão na 1, o fábio chora (teste pelo nano)
+
+teste teste teste pelo vi vi vi (teste pelo vi)
